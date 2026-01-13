@@ -516,7 +516,8 @@ MIT License - see [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Developer:** [@nobitanobi22](https://github.com/nobitanobi22)
+**Developer:**Devgard
+I Will be updating new features [@nobitanobi22](https://github.com/nobitanobi22)
 
 **Project:** [github.com/nobitanobi22/CorrectiveRAG](https://github.com/nobitanobi22/CorrectiveRAG)
 
